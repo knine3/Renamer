@@ -4,3 +4,4 @@ A Simple python script to rename multiple files in a folder, especially useful f
 Working-on:
 - User interface
 - Turn it into an executable
+- In-progress
