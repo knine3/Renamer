@@ -1,6 +1,6 @@
 import os
 
-path          = "C:/Users/Kawish/Videos/Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e/"
+path          = "./Anime"
 Anime         = path.split('/')[-2]
 fileNames = ""
 
