@@ -7,4 +7,4 @@ One more pull request will do it.
 
 Consider this a HacktoberFest log.
 
-Successfuly participated and completed the last two years Hacktoberfest.
+Successfuly participated and completed the last two years Hacktoberfest!
