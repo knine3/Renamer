@@ -15,6 +15,6 @@ print ("Extension:", extension)
 print ("Episodes:", length)
 
 for file in fileNames:
-    os.rename(path+file, path+Anime+" - "+"%02d" % (fileNames.index(file)+1,)+".mkv")
+    os.rename(path + file, path + Anime + " - " + "%02d" %(fileNames.index(file)+1,) + ".mkv")
    
    
