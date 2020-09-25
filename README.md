@@ -1,5 +1,5 @@
 # Renamer
-A Simple python script to rename multiple files in a folder, especially useful for TV shows, Anime, etc. 
+A Simple python script to rename multiple files in a folder, especially useful for Video Series.
 
 Working-on:
 - User interface
